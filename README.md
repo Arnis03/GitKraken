@@ -49,4 +49,10 @@ ETAPE 3
 
 ETAPE 4
 
-    Une Pull Request permet de proposer des modifications pour revision avant de les fusionner dans la branche principale.
+    Question 9
+    
+        Une Pull Request permet de proposer des modifications pour revision avant de les fusionner dans la branche principale.
+
+    Question 10
+
+        Un merge direct applique les modifications immediatement, sans revision, tandis qu'une PR permet une revue et une discussion avant la fusion. La PR est preferee pour s'assurer de la qualite et de l'accord de l'equipe avant de modifier la branche principale.
