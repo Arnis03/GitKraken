@@ -49,4 +49,4 @@ ETAPE 3
 
 ETAPE 4
 
-    
+    Une Pull Request permet de proposer des modifications pour revision avant de les fusionner dans la branche principale.
