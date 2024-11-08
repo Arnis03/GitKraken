@@ -25,4 +25,14 @@ ETAPE 2
         1. Modifiez les fichiers necessaires.
         2. Selectionnez les fichiers dans la section de staging.
         3. Ajoutez un message de commit clair.
-        4. Cliquez sur "Commit". (modif depuis main)
+        4. Cliquez sur "Commit".
+
+    Question 5
+
+        Pousser les branches vers le depot distant permet de partager les modifications avec d'autres membres de l'equipe et de sauvegarder les avancees de travail. Cela est essentiel en collaboration pour synchroniser les versions.
+
+ETAPE 3
+
+    Question 6
+
+        
