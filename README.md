@@ -22,10 +22,10 @@ ETAPE 2
 
     Question 4
 
-        1. Modifiez les fichiers necessaires.
-        2. Selectionnez les fichiers dans la section de staging.
-        3. Ajoutez un message de commit clair.
-        4. Cliquez sur "Commit".
+        1. Modifier les fichiers necessaires.
+        2. Selectionner les fichiers dans la section de staging.
+        3. Ajouter un message de commit clair.
+        4. Cliquer sur "Commit".
 
     Question 5
 
@@ -35,4 +35,18 @@ ETAPE 3
 
     Question 6
 
-        
+        Un conflit survient lorsque deux branches modifient la meme partie d'un fichier differemment. Git ne peut pas decider quelle version garder et demande une resolution manuelle.
+
+    Question 7
+
+        1. Ouvrir le fichier avec le conflit dans GitKraken.
+        2. Choisisir quelles modifications conserver ou fusionner manuellement.
+        3. Valider les modifications et faire un Merge Commit pour resoudre le conflit.
+
+    Question 8
+
+        Un commit de merge est un commit cree lors de la fusion de deux branches. Il enregistre l'unification des changements.
+
+ETAPE 4
+
+    
