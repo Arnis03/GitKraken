@@ -20,4 +20,9 @@ ETAPE 2
 
         Les branches permettent d'isoler le developpement de nouvelles fonctionnalites ou correctifs sans affecter la branche principale. Cela facilite egalement le travail en equipe et limite les conflits entre differentes modifications.
 
-    
+    Question 4
+
+        1. Modifiez les fichiers necessaires.
+        2. Selectionnez les fichiers dans la section de staging.
+        3. Ajoutez un message de commit clair.
+        4. Cliquez sur "Commit".
