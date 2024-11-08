@@ -24,7 +24,7 @@ ETAPE 2
 
         1. Modifier les fichiers necessaires.
         2. Selectionner les fichiers dans la section de staging.
-        3. Ajouter un message de commit clair.
+        3. Ajouter un titre ou (facultatif) une description de commit clair.
         4. Cliquer sur "Commit".
 
     Question 5
@@ -56,3 +56,16 @@ ETAPE 4
     Question 10
 
         Un merge direct applique les modifications immediatement, sans revision, tandis qu'une PR permet une revue et une discussion avant la fusion. La PR est preferee pour s'assurer de la qualite et de l'accord de l'equipe avant de modifier la branche principale.
+
+ETAPE 5
+
+    Question 11
+
+        L'interface de GitKraken offre une vue graphique en arbre des commits et branches, rendant les relations entre les differentes parties du projet claires et faciles a suivre.
+
+    Question 12
+
+        Les tags marquent des points specifiques, comme les versions stables ou non du projet. Dans GitKraken, pour creer un tag :
+        1. Selectionner un commit.
+        2. Cliquer sur l option pour creer un tag.
+        3. Nommer le tag.
