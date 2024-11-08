@@ -25,4 +25,4 @@ ETAPE 2
         1. Modifiez les fichiers necessaires.
         2. Selectionnez les fichiers dans la section de staging.
         3. Ajoutez un message de commit clair.
-        4. Cliquez sur "Commit".
+        4. Cliquez sur "Commit". (modif depuis main)
